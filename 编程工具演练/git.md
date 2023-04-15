@@ -47,6 +47,6 @@ git branch -d
 git checkout
 git pull/merge/reset/checkout/rebase
 
-
+git update-index --chmod=+x 
 
 ```
